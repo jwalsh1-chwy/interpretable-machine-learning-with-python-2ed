@@ -1,1 +1,62 @@
-# interpretable-machine-learning-with-python-2ed
+* Interpretable Machine Learning with Python (2nd Edition) - Study Guide
+
+** Introduction
+- Overview of interpretable machine learning and its importance.
+- Introduction to the Python libraries used in the book.
+
+** Chapter 1: Exploratory Data Analysis (EDA)
+- Importance of EDA in machine learning.
+- Techniques for visualizing and understanding data.
+- Hands-on exercises for EDA with Python.
+
+** Chapter 2: Linear Models for Interpretability
+- Introduction to linear models.
+- Regression and classification with linear models.
+- Interpretation of model coefficients.
+- Practical examples and exercises in Python.
+
+** Chapter 3: Decision Trees and Random Forests
+- Overview of decision trees and random forests.
+- Understanding decision rules and splits.
+- Methods for feature importance and interpretation.
+- Python exercises with decision trees and random forests.
+
+** Chapter 4: Explainable Boosting Machines
+- Introduction to boosting and gradient boosting.
+- Explainable boosting machines and their interpretability.
+- Implementing explainable boosting machines in Python.
+- Examples and exercises for hands-on practice.
+
+** Chapter 5: Model Agnostic Interpretability Methods
+- Lime and SHAP for model explanations.
+- Using Lime and SHAP for interpretability with any model.
+- Practical examples and Python exercises.
+
+** Chapter 6: Model Interpretation in Deep Learning
+- Understanding and interpreting deep neural networks.
+- Techniques for visualizing activations and feature maps.
+- Using attention mechanisms for interpretability.
+- Python examples and exercises with deep learning models.
+
+** Chapter 7: Fairness and Ethics in Machine Learning
+- Introduction to fairness and ethical considerations.
+- Measuring and addressing biases in models.
+- Techniques for achieving fairness in machine learning.
+- Practical examples and ethical considerations in Python.
+
+** Conclusion
+- Summary of the key concepts covered in the book.
+- Future directions for research and development in interpretable machine learning.
+
+** Additional Resources
+- Recommended readings and resources for further study.
+- Online tutorials and courses on interpretable machine learning.
+
+** Python Code and Exercises
+- Link to the "interpretable-machine-learning-with-python-2ed" repository.
+- Instructions for setting up the Python environment and accessing code and exercises.
+
+** Study Group and Discussions
+- Information on study group sessions and online discussions.
+- Schedule and topics for study group sessions.
+- Contact information for joining the study group and participating in discussions.
